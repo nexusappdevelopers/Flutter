@@ -1,0 +1,37 @@
+name: flutter_code_base
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get:
+  logger: ^1.0.0
+  catcher:
+  dio:
+  get_storage: ^2.0.3
+  cached_network_image: ^3.1.0
+  introduction_screen: ^2.1.0
+  flutter_easyloading: ^3.0.3
+  file_picker: ^4.0.3
+  flutter_html: ^2.1.2
+  flutter_screenutil:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/fonts/
+
