@@ -1,4 +1,4 @@
-# Flutter Code Base
+# Flutter
 
 The primary goal of this project is to demonstrate the fundamental use of Flutter with an MVVM architecture.
 
